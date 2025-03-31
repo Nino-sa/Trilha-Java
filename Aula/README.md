@@ -1,10 +1,8 @@
-## Getting Started
+## Bootcampo de JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aprendendo desde os conceitos da linguagem de programação até a prática.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
+## Estrutura da Página
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
