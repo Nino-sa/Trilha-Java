@@ -9,7 +9,7 @@ public class ContaTerminal {
 
         System.out.println("Digite o número de conta:");
         int numeroDeConta = teclado.nextInt();
-        teclado.nextLine(); // consome o \n deicao pelo next Int
+        teclado.nextLine(); // consome o \n deixado pelo next Int
 
         System.out.println("Digite o número da sua agência: ");
         String numeroAgencia = teclado.nextLine();
